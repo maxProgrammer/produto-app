@@ -44,5 +44,4 @@ There are three consitency checks:
 + DTO
 
 ## 📲 contact
-+ mail: maxwneto.poo@gmail.com
 + linkedin: https://www.linkedin.com/in/maxwneto/
